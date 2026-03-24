@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="" />
+    <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HandleMissingValues/automatic imputaion/Titanic-Dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandleMissingValues/automatic imputaion/imputation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandleMissingValues/missing_indicator/Titanic-Dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandleMissingValues/missing_indicator/missingIndicator.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandleMissingValues/random_imputation/Titanic-Dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandleMissingValues/random_imputation/randomImputatio.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +24,9 @@
         <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -29,16 +40,22 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/MY PC/Desktop/ML/projects/fnTransformer",
+    "last_opened_file_path": "C:/Users/MY PC/Desktop/ML/projects/HandleMissingValues/automatic imputaion",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MY PC\Desktop\ML\projects\fnTransformer" />
-      <recent name="C:\Users\MY PC\Desktop\ML\projects\pipeline" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\automatic imputaion" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\automatic imputaion " />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\missing_indicator" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\random_imputation" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\encoding_numerical_features\Binning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MY PC\Desktop\ML\projects\pipeline" />
