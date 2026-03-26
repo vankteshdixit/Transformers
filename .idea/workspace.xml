@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PCA/steps.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/featureConstruction/Titanic-Dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/featureConstruction/analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
