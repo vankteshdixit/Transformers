@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HandleMissingValues/multivariate/knn.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outliers/IQR based/analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outliers/IQR based/placement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outliers/Z-score/analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PCA/steps.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/featureConstruction/Titanic-Dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/featureConstruction/analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandleMissingValues/automatic imputaion/imputation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HandleMissingValues/automatic imputaion/imputation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandleMissingValues/missing_indicator/missingIndicator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HandleMissingValues/missing_indicator/missingIndicator.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +42,17 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/MY PC/Desktop/ML/projects/outliers/IQR based",
+    "last_opened_file_path": "C:/Users/MY PC/Desktop/ML/projects/featureConstruction",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\featureConstruction" />
       <recent name="C:\Users\MY PC\Desktop\ML\projects\outliers\IQR based" />
       <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\multivariate" />
       <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\automatic imputaion" />
       <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\automatic imputaion " />
-      <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\missing_indicator" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MY PC\Desktop\ML\projects\pipeline" />
