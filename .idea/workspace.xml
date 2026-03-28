@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Linear/classLikeLinearRegression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Linear/linearRegression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Linear/regressionMetrices.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/GradientDescent/SGDReg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/GradientDescent/StochasticGradient.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/GradientDescent/gradientDescentClass.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/GradientDescent/gradientDescentFor both_M_B.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/GradientDescent/gradientDescentStepByStep.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/GradientDescent/ownClass.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/MultipleLinearRegression/class.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/MultipleLinearRegression/regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encoding_numerical_features/Binning/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/encoding_numerical_features/Binning/analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fnTransformer/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fnTransformer/analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fnTransformer/concreate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fnTransformer/concreate.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Linear/regressionMetrices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Linear/regressionMetrices.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PCA/steps.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PCA/steps.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
