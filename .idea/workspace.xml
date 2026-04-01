@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/PolynomialRegression/analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Regularization/Ridge.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Regularization/RidgeMathematical.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Regularization/UsingGD.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Logistic/byGD.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Logistic/perceptronTrick.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Regularization/Lasso.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Regularization/elastic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Regularization/UsingGD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Regularization/UsingGD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandleMissingValues/mean_median_imputation/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HandleMissingValues/mean_median_imputation/analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandleMissingValues/multivariate/knn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HandleMissingValues/multivariate/knn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
