@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithms/DecisionTree/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/DecisionTree/overfitting_underfitting_in_decision_tree.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/RandomForest/analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/RandomForest/heart.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/RandomForest/notebook0c43dd114c.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Stacking and Blending/analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Stacking and Blending/heart.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/adaboost/analysion.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/clustering/k_means.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/gradientBoosting/analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ensemble/Bagging/Iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ensemble/Bagging/analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ensemble/voting/Iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ensemble/voting/analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classificationMatrix/confusionMatrix.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classificationMatrix/confusionMatrix.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,26 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MY PC/Desktop/ML/projects/PCA&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/MY PC/Desktop/ML/projects/Algorithms/Stacking and Blending",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MY PC\Desktop\ML\projects\PCA" />
-      <recent name="C:\Users\MY PC\Desktop\ML\projects\featureConstruction" />
-      <recent name="C:\Users\MY PC\Desktop\ML\projects\outliers\IQR based" />
-      <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\multivariate" />
-      <recent name="C:\Users\MY PC\Desktop\ML\projects\HandleMissingValues\automatic imputaion" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\Algorithms\Stacking and Blending" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\Algorithms\RandomForest" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\ensemble\Bagging" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\ensemble\voting" />
+      <recent name="C:\Users\MY PC\Desktop\ML\projects\Algorithms\DecisionTree" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MY PC\Desktop\ML\projects\pipeline" />
