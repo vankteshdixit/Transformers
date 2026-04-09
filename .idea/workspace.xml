@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/DecisionTree/Social_Network_Ads.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/DecisionTree/overfitting_underfitting_in_decision_tree.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/RandomForest/analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/RandomForest/heart.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/RandomForest/notebook0c43dd114c.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Stacking and Blending/analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Stacking and Blending/heart.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/adaboost/analysion.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/clustering/k_means.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/gradientBoosting/analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ensemble/Bagging/Iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ensemble/Bagging/analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ensemble/voting/Iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ensemble/voting/analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classificationMatrix/confusionMatrix.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classificationMatrix/confusionMatrix.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="657642a8-1b35-4215-973e-7cfde6419ea9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
